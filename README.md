@@ -6,6 +6,6 @@ I enjoy tackling projects from a product perspective and then diving into the te
 
 I have acquired a deep understanding of SOLID principles, GOF design patterns, Test-Driven Development (TDD) methodology, and clean architectures, which enables me to develop robust and maintainable solutions.
 
-Although my main focus is on backend development, I also have intermediate knowledge of video game creation using Unity & C#, and basic knowledge of Unreal and C++. This diversity in my training has allowed me to explore different forms of creative thinking and tackle problems in an innovative way.
+Although most of my experience is on backend development, I also have intermediate knowledge of video game creation using Unity & C#, and basic knowledge of Unreal and C++. This diversity in my training has allowed me to explore different forms of creative thinking and tackle problems in an innovative way.
 
 Hit me up on [LinkedIn](https://www.linkedin.com/in/agus-fernandez/?locale=en_US)!
