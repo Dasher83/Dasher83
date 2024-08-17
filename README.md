@@ -1,11 +1,13 @@
-I'm a software developer with experience in backend development, using a variety of technologies including Python, Django, Flask, Docker, among others. During the pandemic (2020 - 2022), I refined my ability to work effectively in remote work environments with distributed companies, and I became quite familiar with cross-functional tools like Git for version control and project management with Jira.
+I’m a software developer with several years of hands-on experience, specializing in the Python and C# ecosystems. Recently, I’ve been involved in projects related to Generative AI, where I’ve contributed to building reliable and effective solutions.
 
-I possess a high level of English proficiency, with a C2 Proficiency certification. This skill has allowed me to work effectively in multicultural teams and international environments.
+One of my key strengths is my proficiency with Git, where I’m often the go-to person for resolving complex version control challenges. I thrive in collaborative environments, ensuring smooth integration processes.
 
-I enjoy tackling projects from a product perspective and then diving into the technical details. This duality brings me closer, at times, to the role of a technical Product Owner, and at other times, to that of a programmer with architecture knowledge.
+In a recent project, I integrated a backend with OpenAI APIs, utilizing their beta AI Assistants to enhance backend functionality. I also developed a Generative AI chatbot backend with Docker support, allowing for local deployment of LLMs. This setup enabled us to experiment and build more complex AI pipelines using tools like Ollama, Poetry, LangChain, and FastAPI. My expertise is backed by an Oracle certification in their Gen AI Cloud service.
 
-I have acquired a deep understanding of SOLID principles, GOF design patterns, Test-Driven Development (TDD) methodology, and clean architectures, which enables me to develop robust and maintainable solutions.
+Beyond AI, I’ve applied my backend development skills in an Augmented Reality (AR) project, where I built a connection layer between a Unity app and a third-party backend. This experience helped me deepen my understanding of integrating emerging technologies with established systems.
 
-Although most of my experience is on backend development, I also have intermediate knowledge of video game creation using Unity & C#, and basic knowledge of Unreal and C++. This diversity in my training has allowed me to explore different forms of creative thinking and tackle problems in an innovative way.
+I also bring a strong understanding of how technology can meet business needs, having contributed to technical presales and research and development (R&D). I’m skilled at analyzing client requirements and helping to shape proposals that balance cost, development time, and features.
+
+In every project, I aim to create solutions that are both functional and maintainable, adhering to best practices like SOLID principles and Test-Driven Development to ensure long-term code quality.
 
 Hit me up on [LinkedIn](https://www.linkedin.com/in/agus-fernandez/?locale=en_US)!
