@@ -1,13 +1,7 @@
-I’m a software developer with several years of hands-on experience, specializing in the Python and C# ecosystems. Recently, I’ve been involved in projects related to Generative AI, where I’ve contributed to building reliable and effective solutions.
+I am a Machine Learning Engineer with 5 years of experience in software development, primarily within the Python ecosystem. I have specialized in building and integrating Generative AI solutions, developing AI-enabled backends, and designing architectures that bring AI capabilities into real-world applications.
 
-One of my key strengths is my proficiency with Git, where I’m often the go-to person for resolving complex version control challenges. I thrive in collaborative environments, ensuring smooth integration processes.
+My background combines strong backend development skills with hands-on experience in AI system integration, leveraging tools such as FastAPI, LangChain, PydanticAI, and Docker, among others, as well as cloud platforms like AWS. I am passionate about solving complex problems, building scalable systems, and continuously evolving with the fast-paced advancements in AI.
 
-In a recent project, I integrated a backend with OpenAI APIs, utilizing their beta AI Assistants to enhance backend functionality. I also developed a Generative AI chatbot backend with Docker support, allowing for local deployment of LLMs. This setup enabled us to experiment and build more complex AI pipelines using tools like Ollama, Poetry, LangChain, and FastAPI. My expertise is backed by an Oracle certification in their Gen AI Cloud service.
+Throughout my career, I have maintained a strong focus on collaboration, technical excellence, and aligning technology with business needs to deliver impactful solutions.
 
-Beyond AI, I’ve applied my backend development skills in an Augmented Reality (AR) project, where I built a connection layer between a Unity app and a third-party backend. This experience helped me deepen my understanding of integrating emerging technologies with established systems.
-
-I also bring a strong understanding of how technology can meet business needs, having contributed to technical presales and research and development (R&D). I’m skilled at analyzing client requirements and helping to shape proposals that balance cost, development time, and features.
-
-In every project, I aim to create solutions that are both functional and maintainable, adhering to best practices like SOLID principles and Test-Driven Development to ensure long-term code quality.
-
-Hit me up on [LinkedIn](https://www.linkedin.com/in/agus-fernandez/?locale=en_US)!
+[LinkedIn](https://www.linkedin.com/in/agus-fernandez/?locale=en_US)
