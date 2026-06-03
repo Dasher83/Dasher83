@@ -1,7 +1,11 @@
-I am a AI Engineer with 5 years of experience in software development, primarily within the Python ecosystem. I have specialized in building and integrating Generative AI solutions, developing AI-enabled backends, and designing architectures that bring AI capabilities into real-world applications.
+I am a Senior AI & Backend Engineer specializing in the end-to-end delivery of Generative AI systems and LLM orchestration. My expertise lies at the intersection of production-grade backend architecture and applied AI, designing RAG pipelines, workflow automations, and scalable APIs that solve complex business challenges.
 
-My background combines strong backend development skills with hands-on experience in AI system integration, leveraging tools such as FastAPI, LangChain, PydanticAI, and Docker, among others, as well as cloud platforms like AWS. I am passionate about solving complex problems, building scalable systems, and continuously evolving with the fast-paced advancements in AI.
+I thrive in high-autonomy environments where I can take an initiative from initial POC to a horizontally scalable production environment. Beyond writing code, I bridge the gap between technical capability and business value; I frequently partner with stakeholders to scope AI initiatives, shape technical proposals, and design solutions tailored to specific commercial goals.
 
-Throughout my career, I have maintained a strong focus on collaboration, technical excellence, and aligning technology with business needs to deliver impactful solutions.
+Core Focus Areas:
+- Generative AI & LLM Orchestration: RAG pipelines, prompt engineering, and custom agent skills (Claude Code).
+- Production Backend Engineering: Building high-performance, scalable systems using Python, FastAPI, and AWS.
+- System Architecture: Designing for maintainability, rapid developer onboarding, and portability via Docker.
+- Technical Leadership: Guiding execution from discovery to deployment collaborating across cross-functional teams.
 
 [LinkedIn](https://www.linkedin.com/in/agus-fernandez/?locale=en_US)
